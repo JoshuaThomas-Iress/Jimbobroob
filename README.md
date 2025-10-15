@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jimbobroob
-- 👀 I’m interested in C++ and game development
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @Jimbobroob Joshua Thomas I work at Irsss
+- 👀 I’m interested in C++ and C#
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing till i think im good enough
 - 📫 How to reach me Jimbobroob@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You should litsen to techbicolor by the mirror reveals
+- ⚡ Fun fact: You should litsen to magbay
 
 <!---
 Jimbobroob/Jimbobroob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
