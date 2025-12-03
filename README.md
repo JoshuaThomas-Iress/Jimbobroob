@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jimbobroob Joshua Thomas I work at Irsss
+- 👋 Hi, I’m @Jimbobroob Joshua Thomas I work at Iress
 - 👀 I’m interested in C++ and C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing till i think im good enough
